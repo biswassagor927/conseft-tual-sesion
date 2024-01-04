@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Maps&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Rubik Maps', system-ui;
+}
+.Sagor{
+    background-image: url('../Images/DSC00829.JPG');
+    
+    height: 100vh;
+    background-size: cover;
+    background-position: bottom center;
+}
+.Sagor h1{
+    color: hsl(187, 80%, 46%);
+    font-size: 100px;
+    text-align: center;
+    font-weight: 500px;
+    padding-top: 60px;
+    font-family:cursive ;
+    letter-spacing: 20px;
+}
+.Pragrap,#Other{
+    width: 80%;
+    /* margin-right: auto;
+    margin-left: auto;
+    margin-top: 60px;
+    margin-bottom: 60px; */
+    margin: 60px auto;
+    background-color: #9cafaf;
+    padding: 60px;
+    border-width:15px ;
+    border-color: chartreuse;
+    border-style: groove;
+    border-radius: 20px;
+
+}
+.Pragrap h2{
+     text-align: center;
+     font-size: 48px;
+     border-bottom: 2px;
+     border-width: 5px;
+     border-style: solid;
+     border-color: blue;
+     border-right: 0;
+     border-left: 0;
+     border-top: 0;
+     padding-bottom: 30px;
+     margin-bottom: 60px;
+}
+.Pragrap p{
+    font-size: 20px;
+    line-height: 1em;
+}
+.Pragrap p .sa{
+    font-size: 30px;
+
+}
